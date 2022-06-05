@@ -1,6 +1,6 @@
 [
   {
-  "name":"*番号资源",
-  "api":"http://fhapi9.com/api.php/provide/vod/",
+  "name":"*爱播资源",
+  "api":"https://cj.apiabzy.com/api.php/provide/vod/",
   }
 ]
