@@ -1,19 +1,11 @@
 [
   {
   “name”:“*水蜜桃”,
-  “api”:“http://51smt4.xyz/api.php/provide/vod/”
+  “api”:“http://51smt4.xyz/api.php/provide/vod/”,
   },
   {
   “name”:“*秀色资源”,
-  “api”:“https://api.xiuseapi.com/api.php/provide/vod/”
-  },
-  {
-  “name”:“*色猫资源”,
-  “api”:“https://api.maozyapi.com/inc/apijson_vod.php”
-  },
-  {
-  “name”:“*爱看资源”,
-  “api”:“http://www.aikanzyz9.com/inc/apijson_vod.php”
+  “api”:“https://api.xiuseapi.com/api.php/provide/vod/”,
   },
   {
   “name”:“*花魁资源”,
