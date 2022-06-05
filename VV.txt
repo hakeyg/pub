@@ -1,10 +1,10 @@
 [
   {
-  "name":"*水蜜桃",
-  "api":"http://51smt4.xyz/api.php/provide/vod/"
+  "name":"*淫窝资源",
+  "api":"https://api.yinwoapi.com/api.php/provide/vod/"
   },
   {
-  "name":"*花魁资源",
-  "api":"https://caiji.huakuiapi.com/inc/apijson_vod.php"
+  "name":"*黄瓜TV资源",
+  "api":"https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml"
   }
 ]
